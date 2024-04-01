@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component solution
+# QR code component solution
 
 ## Welcome! 👋
 
@@ -12,7 +12,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
 - [Author](#author)
 
 ## Overview
@@ -37,11 +36,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### What I learned
 
 By doing this exercise, I learned how to implement projects based only on design preview, HTML5 and CSS3, basic of Git and GitHub, CSS custom properties. 
-
-### Continued development
-
- - In the future, I plan to further  deepen my knowledge of CSS3 by applying good practices in styling applications and websites. 
-- I plan to learn SASS and JS and use them in future projects.
 
 ## Author
 
